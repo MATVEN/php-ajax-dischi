@@ -1,4 +1,4 @@
-function printData() {
+function printData(data) {
 
   var target = $('#container')
 

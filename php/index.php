@@ -29,9 +29,12 @@ Utilizzare: Html, Sass, JS, jQuery, handlebars, Php */
         <div class="album">
 
           <?php stamp($database) ?>
-          
+
         </div>
       </div>
     </div>
+
+    <!-- JS: MY SCRIPT -->
+    <script src="script.js" charset="utf-8"></script>
   </body>
 </html>
