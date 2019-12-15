@@ -9,7 +9,7 @@ function printData(data) {
 
     var record = data[i];
 
-    var compiledRecord = sourceTransfert(match);
+    var compiledRecord = sourceTransfert(record);
 
     target.append(compiledRecord);
 
